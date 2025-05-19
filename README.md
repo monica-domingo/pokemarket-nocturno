@@ -1,4 +1,4 @@
-# 🛍️ PokéMarket Nocturno - Tech Test
+# 🔮 PokéMarket Nocturno
 
 This is a **React SPA** built with **Vite, TypeScript, and Bun** that allows users to **search, view, and favorite items
 ** from a list served via **Mock Service Worker (MSW)**.
@@ -32,7 +32,7 @@ recommended for faster performance.
 
 ## 🚀 Features
 
-- 🔎 **Search items** by `title`, `description`, `price`, and `email`
+- 🔎 **Search items** by `type`, `description`, `price`, and `email`
 - 📄 **Display a paginated list** of items (5 at a time)
 - ⭐ **Add/remove favorites**, which are stored only in memory
 - 📜 **Infinite scrolling** to load more items dynamically
@@ -135,6 +135,11 @@ bun run build
 
 This will generate an optimized bundle in the `/dist` folder.
 
+
+---
+## Product
+
+![Desktop view](desktop.png)
 
 ---
 

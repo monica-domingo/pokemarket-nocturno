@@ -18,9 +18,9 @@ const searchOptions: { value: SearchField; label: string }[] = [
 ];
 
 const placeholdersByField: Record<SearchField, string> = {
-    title: "Buscar por título...",
+    title: "Buscar por nombre...",
     description: "Buscar por descripción...",
-    email: "Buscar por email...",
+    email: "Buscar por email del vendedor...",
     price: "Buscar por precio exacto..."
 };
 

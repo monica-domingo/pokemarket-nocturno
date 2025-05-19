@@ -1,0 +1,214 @@
+{
+  "items": [
+    {
+      "title": "Pikabolt",
+      "description": "Pequeño roedor eléctrico con mejillas que generan electricidad y cola en forma de rayo",
+      "price": "2500",
+      "email": "pikabolt@pokemarketnocturno.dev",
+      "image": "pikabolt.png"
+    },
+    {
+      "title": "Charmando",
+      "description": "Lagarto de fuego con una llama en la punta de su cola que indica su salud",
+      "price": "2800",
+      "email": "charmando@pokemarketnocturno.dev",
+      "image": "charmando.png"
+    },
+    {
+      "title": "Squirty",
+      "description": "Tortuga acuática con caparazón resistente y capacidad para lanzar potentes chorros de agua",
+      "price": "2800",
+      "email": "squirty@pokemarketnocturno.dev",
+      "image": "squirty.png"
+    },
+    {
+      "title": "Bulbar",
+      "description": "Criatura cuadrúpeda con un bulbo en su espalda que almacena energía solar",
+      "price": "2800",
+      "email": "bulbar@pokemarketnocturno.dev",
+      "image": "bulbar.png"
+    },
+    {
+      "title": "Geodrop",
+      "description": "Criatura rocosa con brazos fuertes y cuerpo compuesto de minerales densos",
+      "price": "1900",
+      "email": "geodrop@pokemarketnocturno.dev",
+      "image": "geodrop.png"
+    },
+    {
+      "title": "Mewtri",
+      "description": "Ser psíquico creado genéticamente con poderes mentales extraordinarios",
+      "price": "9500",
+      "email": "mewtri@pokemarketnocturno.dev",
+      "image": "mewtri.png"
+    },
+    {
+      "title": "Jiggly",
+      "description": "Criatura redonda y rosada con grandes ojos que puede cantar para adormecer a sus oponentes",
+      "price": "1800",
+      "email": "jiggly@pokemarketnocturno.dev",
+      "image": "jiggly.png"
+    },
+    {
+      "title": "Growlar",
+      "description": "Cachorro con pelaje naranja y rayas negras que puede exhalar fuego intenso",
+      "price": "2200",
+      "email": "growlar@pokemarketnocturno.dev",
+      "image": "growlar.png"
+    },
+    {
+      "title": "Zaptros",
+      "description": "Ave legendaria que controla el elemento eléctrico y causa tormentas cuando vuela",
+      "price": "8800",
+      "email": "zaptros@pokemarketnocturno.dev",
+      "image": "zaptros.png"
+    },
+    {
+      "title": "Snoraz",
+      "description": "Gigante dormilón con estómago inmenso que puede comer cantidades enormes antes de dormir por días",
+      "price": "3500",
+      "email": "snoraz@pokemarketnocturno.dev",
+      "image": "snoraz.png"
+    },
+    {
+      "title": "Dratini",
+      "description": "Serpiente dracónica azul que puede crecer hasta tamaños enormes al evolucionar",
+      "price": "4200",
+      "email": "dratini@pokemarketnocturno.dev",
+      "image": "dratini.png"
+    },
+    {
+      "title": "Magneto",
+      "description": "Criatura metálica con imanes que flota y puede manipular campos electromagnéticos",
+      "price": "2100",
+      "email": "magneto@pokemarketnocturno.dev",
+      "image": "magneto.png"
+    },
+    {
+      "title": "Gastly",
+      "description": "Entidad gaseosa y espectral que puede atravesar paredes y provocar pesadillas",
+      "price": "1800",
+      "email": "gastly@pokemarketnocturno.dev",
+      "image": "gastly.png"
+    },
+    {
+      "title": "Gyaradon",
+      "description": "Serpiente marina gigante de aspecto feroz que puede desatar tempestades en los océanos",
+      "price": "4800",
+      "email": "gyaradon@pokemarketnocturno.dev",
+      "image": "gyaradon.png"
+    },
+    {
+      "title": "Abracadabra",
+      "description": "Humanoide psíquico con bigote prominente y habilidades telepáticas avanzadas",
+      "price": "3200",
+      "email": "abracadabra@pokemarketnocturno.dev",
+      "image": "abracadabra.png"
+    },
+    {
+      "title": "Machopunch",
+      "description": "Luchador musculoso con cuatro brazos y cinturón de campeón que nunca se cansa",
+      "price": "2900",
+      "email": "machopunch@pokemarketnocturno.dev",
+      "image": "machopunch.png"
+    },
+    {
+      "title": "Laprace",
+      "description": "Nadador elegante con caparazón y cuerno que habita en aguas heladas",
+      "price": "3800",
+      "email": "laprace@pokemarketnocturno.dev",
+      "image": "laprace.png"
+    },
+    {
+      "title": "Voltorbe",
+      "description": "Criatura esférica que parece una pokébola y puede autodestruirse cuando se siente amenazada",
+      "price": "1500",
+      "email": "voltorbe@pokemarketnocturno.dev",
+      "image": "voltorbe.png"
+    },
+    {
+      "title": "Sandshred",
+      "description": "Armadillo desértico con garras afiladas capaz de cavar túneles a gran velocidad",
+      "price": "2100",
+      "email": "sandshred@pokemarketnocturno.dev",
+      "image": "sandshred.png"
+    },
+    {
+      "title": "Eevin",
+      "description": "Zorro con capacidad genética única para evolucionar en diferentes tipos elementales",
+      "price": "3200",
+      "email": "eevin@pokemarketnocturno.dev",
+      "image": "eevin.png"
+    },
+    {
+      "title": "Venosaur",
+      "description": "Bestia cuadrúpeda con una enorme flor en su espalda que libera polen curativo o tóxico",
+      "price": "4500",
+      "email": "venosaur@pokemarketnocturno.dev",
+      "image": "venosaur.png"
+    },
+    {
+      "title": "Alakazoom",
+      "description": "Maestro psíquico con cucharas dobladas que puede teletransportarse y predecir el futuro",
+      "price": "4200",
+      "email": "alakazoom@pokemarketnocturno.dev",
+      "image": "alakazoom.png"
+    },
+    {
+      "title": "Genghost",
+      "description": "Espíritu sombrío con sonrisa maliciosa que disfruta asustando a viajeros perdidos",
+      "price": "3800",
+      "email": "genghost@pokemarketnocturno.dev",
+      "image": "genghost.png"
+    },
+    {
+      "title": "Nidoking",
+      "description": "Bestia reptiliana con armadura y cuerno venenoso que puede causar terremotos",
+      "price": "4100",
+      "email": "nidoking@pokemarketnocturno.dev",
+      "image": "nidoking.png"
+    },
+    {
+      "title": "Blastocannon",
+      "description": "Tortuga bípeda con cañones de agua en su caparazón capaces de perforar acero",
+      "price": "4500",
+      "email": "blastocannon@pokemarketnocturno.dev",
+      "image": "blastocannon.png"
+    },
+    {
+      "title": "Dragonair",
+      "description": "Serpiente celestial de colores iridiscentes que puede controlar el clima volando",
+      "price": "5200",
+      "email": "dragonair@pokemarketnocturno.dev",
+      "image": "dragonair.png"
+    },
+    {
+      "title": "Flareo",
+      "description": "Mamífero rojo con abundante pelaje y temperatura corporal extremadamente alta",
+      "price": "3600",
+      "email": "flareo@pokemarketnocturno.dev",
+      "image": "flareo.png"
+    },
+    {
+      "title": "Jolteo",
+      "description": "Criatura eléctrica con pelaje puntiagudo que dispara agujas cargadas de electricidad",
+      "price": "3600",
+      "email": "jolteo@pokemarketnocturno.dev",
+      "image": "jolteo.png"
+    },
+    {
+      "title": "Vaporeo",
+      "description": "Criatura acuática con aletas y capacidad para fundirse con el agua y volverse invisible",
+      "price": "3600",
+      "email": "vaporeo@pokemarketnocturno.dev",
+      "image": "vaporeo.png"
+    },
+    {
+      "title": "Arceo",
+      "description": "Ser divino legendario que se dice creó todo el mundo pokémon con mil brazos",
+      "price": "9900",
+      "email": "arceo@pokemarketnocturno.dev",
+      "image": "arceo.png"
+    }
+  ]
+}

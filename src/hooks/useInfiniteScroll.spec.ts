@@ -9,7 +9,7 @@ describe('useInfiniteScroll', () => {
 
     beforeEach(() => {
         disconnectMock = vi.fn();
-        mockIntersectionObserver = vi.fn((callback) => {
+        mockIntersectionObserver = vi.fn(function (callback) {
             observeCallback = callback;
             return {
                 observe: vi.fn(),
